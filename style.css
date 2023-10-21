@@ -1,0 +1,12 @@
+
+
+body {
+    background-color: aqua; 
+ }
+
+div {
+    border-style: solid;
+    border-color: aqua;
+    padding-inline-start: 5px;
+    margin: 5px;
+}
